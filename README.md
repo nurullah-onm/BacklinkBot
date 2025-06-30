@@ -1,7 +1,7 @@
 # 🚀 BacklinkBot Pro v1.0 - Gelişmiş Backlink Otomasyonu
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2+-blue.svg)](https://dotnet.microsoft.com/download/dotnet-framework)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Non--Commercial-red.svg)](LICENSE)
 [![Windows](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 [![C#](https://img.shields.io/badge/Language-C%23-purple.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
@@ -119,7 +119,14 @@ BacklinkBot.sln
 
 ### ⚠️ Yasal Uyarı
 
-Bu araç yalnızca **kendi web sitelerinizde** veya **izin verilen sitelerde** test amaçlı kullanılmalıdır. Kullanıcı, aracın kullanımından doğabilecek tüm yasal sorumluluğu kabul eder.
+Bu araç yalnızca **kendi web sitelerinizde** veya **izin verilen sitelerde** test amaçlı kullanılmalıdır. 
+
+**🚨 ÖNEMLİ: Bu yazılım SATILAMAZ!** 
+
+- Yazılımın satışa çıkarılması **KESİNLİKLE YASAKTIR**
+- Ticari kullanım için izin alınmalıdır
+- Kullanıcı, aracın kullanımından doğabilecek tüm yasal sorumluluğu kabul eder
+- Yazılımı satan kişiler hakkında yasal işlem başlatılacaktır
 
 ---
 
@@ -222,7 +229,14 @@ BacklinkBot.sln
 
 ### ⚠️ Legal Disclaimer
 
-This tool should only be used for testing purposes on **your own websites** or **permitted sites**. The user accepts all legal responsibility that may arise from the use of the tool.
+This tool should only be used for testing purposes on **your own websites** or **permitted sites**. 
+
+**🚨 IMPORTANT: This software CANNOT BE SOLD!**
+
+- Selling this software is **STRICTLY PROHIBITED**
+- Commercial use requires permission
+- The user accepts all legal responsibility that may arise from the use of the tool
+- Legal action will be taken against those who sell this software
 
 ---
 
@@ -287,9 +301,48 @@ BacklinkBot/
 
 ## 📄 Lisans / License
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
+⚠️ **SATIŞ YASAĞI / SALE PROHIBITION**
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
+Bu yazılım **TAMAMEN ÜCRETSİZ** olarak geliştirilmiştir ve **KESİNLİKLE SATILAMAZ**.
+
+**Yasaklanan Faaliyetler:**
+- ❌ Yazılımın satışa çıkarılması
+- ❌ Ticari amaçla dağıtımı
+- ❌ Ücret karşılığı verilmesi
+- ❌ Yazılım içinde reklam/para talebi
+- ❌ Premium versiyon oluşturulması
+
+**İzin Verilen Faaliyetler:**
+- ✅ Kişisel kullanım
+- ✅ Kaynak kodunu inceleme
+- ✅ Eğitim amaçlı kullanım
+- ✅ Ücretsiz dağıtım
+- ✅ Açık kaynak geliştirme
+
+**This software is developed as COMPLETELY FREE and ABSOLUTELY CANNOT BE SOLD.**
+
+**Prohibited Activities:**
+- ❌ Selling the software
+- ❌ Commercial distribution
+- ❌ Charging fees
+- ❌ Ads/money requests in software
+- ❌ Creating premium versions
+
+**Allowed Activities:**
+- ✅ Personal use
+- ✅ Source code examination
+- ✅ Educational use
+- ✅ Free distribution
+- ✅ Open source development
+
+---
+
+**⚖️ Telif Hakları / Copyright**
+
+© 2025 WebDevAjans - Tüm hakları saklıdır / All rights reserved
+
+Bu yazılımı satmaya çalışan kişiler hakkında yasal işlem başlatılacaktır.
+Legal action will be taken against those who attempt to sell this software.
 
 ---
 
